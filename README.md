@@ -1,3 +1,1 @@
-# hello-word
-mariajos
-love for IT sila
+# Employee leave management information system
